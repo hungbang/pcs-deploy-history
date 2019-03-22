@@ -17,13 +17,13 @@
 
 // not sure if these servers bellow is still used or not.
 
-~~9. tc-smartlinkwmr ~~
+~~9. tc-smartlinkwmr~~
 
-~~10. tc-smartlinkpayment ~~
+~~10. tc-smartlinkpayment~~
 
-~~11. tc-smartlinkcallingcard ~~
+~~11. tc-smartlinkcallingcard~~
 
-~~12. tc-smartlinksmr ~~
+~~12. tc-smartlinksmr~~
 
 
 Checklist deploy:
